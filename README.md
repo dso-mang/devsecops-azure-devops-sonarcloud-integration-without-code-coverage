@@ -1,5 +1,6 @@
 # Vulnado - Intentionally Vulnerable Java Application
 
+This code is copied from https://github.com/asecurityguru/devsecops-azure-devops-sonarcloud-integration-without-code-coverage for learning sake. I am beginner and dont know how is the correct process.
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
 ## Up and running
